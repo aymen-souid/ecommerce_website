@@ -8,3 +8,5 @@ python manage.py migrate
 python manage.py makemigration
 
 python manage.py createsuperuser (to get authentificated and be able to add items to your cart)
+
+watch ecommerce.mp4
